@@ -8,7 +8,7 @@ Autor: Alejandro José López Tapia
 
 Fecha: 12 de Diciembre 2023
 
-![Cultura Digital]([https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich.jpeg)) 
+![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich.jpeg)
 
 
 

@@ -5,7 +5,7 @@
 Autor: Alejandro José López Tapia
 Fecha: 12 de Diciembre 2023
 
-![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich.jpeg)
+![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich%copia.jpeg)
 
 ## Planteamiento
 

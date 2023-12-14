@@ -1,39 +1,24 @@
+
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
-
-
 Autor: Alejandro José López Tapia
-
-
 Fecha: 12 de Diciembre 2023
 
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich.jpeg)
 
-
-
 ## Planteamiento
 
+En este análisis vamos a tratar dos casos de **Hibridación del software** en ámbitos de la cultura digital bajo el prisma de **Lev Manovich**. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+>**La Hibridación**: 
+>_“es el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos"_. 
+> "Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones".   "no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»". **(Manovich, 2013)**.
+> 
+**Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software. 
 
+El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. En e nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico"**
 
-## Re-descubriendo la hibridacion: Caso 1
+## "Unreal Engine"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-## Re-descubriendo la hibridacion: Caso 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-### Referencias y Bibliografía
-
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+## "El Gato con Botas: Atrapado en un cuento épico"

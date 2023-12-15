@@ -5,7 +5,7 @@
 Autor: Alejandro José López Tapia
 Fecha: 12 de Diciembre 2023
 
-![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich%copia.jpeg)
+![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich%20copia.jpg)
 
 ## Planteamiento
 
@@ -20,5 +20,5 @@ En este análisis vamos a tratar dos casos de **Hibridación del software** en �
 El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. En e nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico"**
 
 ## "Unreal Engine"
-
+![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Unrealok.jpg)
 ## "El Gato con Botas: Atrapado en un cuento épico"

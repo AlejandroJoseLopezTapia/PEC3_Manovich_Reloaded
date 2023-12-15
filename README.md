@@ -1,9 +1,9 @@
 
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
-### Recurso de aprendizaje de Cultura Digital 
-Autor: Alejandro José López Tapia
-Fecha: 12 de Diciembre 2023
+**Autor:** _Alejandro José López Tapia_
+
+**Fecha:** 12 de Diciembre 2023
 
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich%20copia.jpg)
 
@@ -17,11 +17,23 @@ En este análisis vamos a tratar dos casos de **Hibridación del software** en �
 > 
 **Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software. 
 
-El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. En e nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico".**
+El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. En este nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico".**
+
+## ¿Qué es la hibridación de medios?
+
 
 ## "Unreal Engine"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Unrealok.jpg)
 
+### Introducción
+
+### Elementos de la Hibridación
+
+### Tipo de Hibridación
+
+Caso escogido (Cómo funciona y medios que incorpora)
+
+¿Qué tipo de hibridación se puede identificar en este caso? (según Manovich)
 
 Lorem ipsum dolor sit amet consectetur adipiscing elit habitant nostra posuere, dictumst himenaeos sagittis dignissim aliquet fermentum cursus morbi nisl lectus, nam volutpat bibendum dapibus sodales euismod ultrices nibh sollicitudin. Nulla cum at curae sem euismod egestas malesuada eget, aliquet nec vulputate lobortis nascetur himenaeos molestie pharetra, sollicitudin primis sociis urna vehicula accumsan eu. Congue donec nullam nisl sagittis facilisi lectus, montes parturient cum suspendisse volutpat accumsan commodo, vel laoreet etiam aliquet aenean.
 
@@ -43,8 +55,19 @@ Vulputate semper praesent augue rhoncus duis aenean condimentum penatibus viverr
 
 
 
+¿Qué es la hibridación de medios? (brevemente para introducir el documento)
+
+¿Cómo reconocer una de estas hibridaciones? ¿Cómo distinguir de otras (multimedia/remediación)?
 
 
+
+## Valoraciones personales
+
+
+
+wefwefwefwefwfwf
+wefwefwef
+wefwefwefwef
 
 
 

@@ -21,4 +21,6 @@ El último libro académico de Manovich **El software toma el mando** Fue public
 
 ## "Unreal Engine"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Unrealok.jpg)
+
 ## "El Gato con Botas: Atrapado en un cuento épico"
+![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gatoconbotas.jpg)

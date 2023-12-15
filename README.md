@@ -17,10 +17,60 @@ En este análisis vamos a tratar dos casos de **Hibridación del software** en �
 > 
 **Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software. 
 
-El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. En e nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico"**
+El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. En e nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico".**
 
 ## "Unreal Engine"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Unrealok.jpg)
 
 ## "El Gato con Botas: Atrapado en un cuento épico"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gatoconbotas.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Bibliografía
+
+- _Manovich, Lev. “El Software toma el mando”. Barcelona: Editorial UOC, 2013"_
+
+- _Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. Fecha de acceso Diciembre 2023.
+https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
+
+- _IBM. "¿Qué es la tecnología blockchain?".
+Fecha de acceso Diciembre 2023.
+https://www.ibm.com/es-es/topics/blockchain_
+
+- _Binance Academy. "¿Qué es la Blockchain y cómo funciona?.
+Fecha de acceso Diciembre 2023.
+https://academy.binance.com/es/articles/what-is-blockchain-and-how-does-it-work_
+
+- _Wikipedia. "Cadena de Bloques".
+Fecha de acceso Diciembre 2023.
+https://es.wikipedia.org/wiki/Cadena_de_bloques_
+
+- _Microsoft. "El contenido que les interesa, simplificado y reinventado. Presentamos Microsoft Start"
+Fecha de acceso Diciembre 2023.
+https://news.microsoft.com/es-xl/el-contenido-que-les-interesa-simplificado-y-reinventado-presentamos-microsoft-start/_
+
+
+
+- _Imagen de Portada. Creada con Microsoft Bing. “Image Creator from Microsoft Bing”.
+Fecha 10 Diciembre 2023. https://www.bing.com/create_
+
+- _Imagen de Composición Unbreal_. Creada con Photoshop.
+Fecha 14 Diciembre 2023. Imágenes: https://www.unrealengine.com/es-ES/unreal-engine-5
+
+- _Imagen de Composición Gato con botas_. Creada con Photoshop.
+Fecha 14 Diciembre 2023. Imágenes: https://www.netflix.com/es/title/80151644
+

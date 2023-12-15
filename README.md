@@ -22,8 +22,18 @@ El último libro académico de Manovich **El software toma el mando** Fue public
 ## "Unreal Engine"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Unrealok.jpg)
 
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit habitant nostra posuere, dictumst himenaeos sagittis dignissim aliquet fermentum cursus morbi nisl lectus, nam volutpat bibendum dapibus sodales euismod ultrices nibh sollicitudin. Nulla cum at curae sem euismod egestas malesuada eget, aliquet nec vulputate lobortis nascetur himenaeos molestie pharetra, sollicitudin primis sociis urna vehicula accumsan eu. Congue donec nullam nisl sagittis facilisi lectus, montes parturient cum suspendisse volutpat accumsan commodo, vel laoreet etiam aliquet aenean.
+
+Vulputate semper praesent augue rhoncus duis aenean condimentum penatibus viverra arcu, non odio sem turpis class tristique habitasse sollicitudin ultricies. Vestibulum rhoncus proin vulputate penatibus natoque molestie blandit congue convallis a purus, duis justo sagittis euismod auctor placerat non fermentum risus cum metus, sollicitudin volutpat eu ultricies viverra integer ullamcorper morbi sociis tincidunt. Suspendisse euismod ante quam tincidunt pharetra erat malesuada lacinia egestas, duis leo taciti inceptos sodales sollicitudin vulputate pellentesque curae, cursus morbi iaculis dignissim ridiculus fames risus praesent.
+
+
 ## "El Gato con Botas: Atrapado en un cuento épico"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gatoconbotas.jpg)
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit habitant nostra posuere, dictumst himenaeos sagittis dignissim aliquet fermentum cursus morbi nisl lectus, nam volutpat bibendum dapibus sodales euismod ultrices nibh sollicitudin. Nulla cum at curae sem euismod egestas malesuada eget, aliquet nec vulputate lobortis nascetur himenaeos molestie pharetra, sollicitudin primis sociis urna vehicula accumsan eu. Congue donec nullam nisl sagittis facilisi lectus, montes parturient cum suspendisse volutpat accumsan commodo, vel laoreet etiam aliquet aenean.
+
+Vulputate semper praesent augue rhoncus duis aenean condimentum penatibus viverra arcu, non odio sem turpis class tristique habitasse sollicitudin ultricies. Vestibulum rhoncus proin vulputate penatibus natoque molestie blandit congue convallis a purus, duis justo sagittis euismod auctor placerat non fermentum risus cum metus, sollicitudin volutpat eu ultricies viverra integer ullamcorper morbi sociis tincidunt. Suspendisse euismod ante quam tincidunt pharetra erat malesuada lacinia egestas, duis leo taciti inceptos sodales sollicitudin vulputate pellentesque curae, cursus morbi iaculis dignissim ridiculus fames risus praesent.
 
 
 

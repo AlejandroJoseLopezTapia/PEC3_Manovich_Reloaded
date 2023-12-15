@@ -57,23 +57,7 @@ Vulputate semper praesent augue rhoncus duis aenean condimentum penatibus viverr
 - _Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. Fecha de acceso Diciembre 2023.
 https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
 
-- _IBM. "¿Qué es la tecnología blockchain?".
-Fecha de acceso Diciembre 2023.
-https://www.ibm.com/es-es/topics/blockchain_
-
-- _Binance Academy. "¿Qué es la Blockchain y cómo funciona?.
-Fecha de acceso Diciembre 2023.
-https://academy.binance.com/es/articles/what-is-blockchain-and-how-does-it-work_
-
-- _Wikipedia. "Cadena de Bloques".
-Fecha de acceso Diciembre 2023.
-https://es.wikipedia.org/wiki/Cadena_de_bloques_
-
-- _Microsoft. "El contenido que les interesa, simplificado y reinventado. Presentamos Microsoft Start"
-Fecha de acceso Diciembre 2023.
-https://news.microsoft.com/es-xl/el-contenido-que-les-interesa-simplificado-y-reinventado-presentamos-microsoft-start/_
-
-
+## Imágenes
 
 - _Imagen de Portada. Creada con Microsoft Bing. “Image Creator from Microsoft Bing”.
 Fecha 10 Diciembre 2023. https://www.bing.com/create_

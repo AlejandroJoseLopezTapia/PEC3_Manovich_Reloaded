@@ -70,9 +70,9 @@ La película presenta elementos de **interactividad** que permiten a los especta
    
 **La combinación de estos elementos crea una experiencia única que no podría ser creada por un solo medio.**
 
-**A continuación, se presentan algunos ejemplos específicos de hibridación de medios en la película:**
+Algunos ejemplos específicos de hibridación de medios en la película:
 
-* **Los espectadores pueden tomar decisiones que afectan el curso de la historia. Esto crea una experiencia personalizada, diferente a una película tradicional.**
+* Los espectadores pueden tomar decisiones que afectan el curso de la historia. Esto crea una experiencia personalizada, diferente a una película tradicional.
 
 La película presenta una variedad de opciones que los espectadores pueden elegir durante la película. Estas opciones afectan el resultado de la historia. Por ejemplo, en una escena, el Gato con Botas puede elegir entre dos caminos. El camino que elija el espectador determinará qué tipo de obstáculo tendrá que superar el Gato con Botas.
 

@@ -95,15 +95,9 @@ Ayuda a las personas a conectarse entre sí de nuevas maneras. Por ejemplo, las 
 En conclusión, la hibridación es importante ya que tiene el potencial de transformar la forma en que interactuamos con los medios y el mundo que nos rodea. La hibridación de los medios puede ayudar a las personas a expresarse de nuevas formas antes impensables o muy inaccesibles. Los creadores pueden utilizar los nuevos medios para crear obras más interactivas y envolventes que las obras tradicionales. En definitiva el Software resultante es el motor de cambio de nuestro día a día en el entorno digital.
 
 
-
-
-
 ## Bibliografía
 
 - _Manovich, Lev. “El Software toma el mando”. Barcelona: Editorial UOC, 2013"_
-
-- _Ferran, Adell. “Remediación, multimedia e hibridación de los medios”. Blog de Fundamentos y evolución de la multimedia (blog). UOC. Fecha de acceso Diciembre 2023.
-https://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/_
 
 ## Imágenes
 

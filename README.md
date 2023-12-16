@@ -3,7 +3,7 @@
 
 **Autor:** _Alejandro José López Tapia_
 
-**Fecha:** 12 de Diciembre 2023
+**Fecha:** 16 de Diciembre 2023
 
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gafas%20Manovich%20copia.jpg)
 

@@ -13,7 +13,7 @@ En este análisis vamos a tratar dos casos de **Hibridación del software** en �
 
 >**La Hibridación**: 
 >_“es el encuentro de diversas técnicas que anteriormente pertenecían a medios distintos"_. 
-> "Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones".   "no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»". **(Manovich, 2013)**.
+> "Se agrupan técnicas y formatos de representación de medios físicos y electrónicos anteriores, y las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar nuevas combinaciones".**(Manovich, 2013)**.
 > 
 **Lev Manovich** es autor de libros sobre teoría de nuevos medios, profesor de informática en City University of New York, Graduate Center, Estados Unidos y profesor visitante en la European Graduate School en Saas-Fee, Suiza. La investigación y la enseñanza de Manovich se centra en las humanidades digitales, la informática social, el arte y la teoría de los nuevos medios, y los estudios de software. El último libro académico de Manovich **El software toma el mando** Fue publicado en 2013. 
 
@@ -21,6 +21,9 @@ En este análisis vamos a tratar dos casos de **Hibridación del software** en �
 
 Lev Manovich, define la hibridación de los medios como el proceso de combinar dos o más medios en un nuevo formato. Esta tendencia se ha vuelto cada vez más común en los últimos años, a medida que las tecnologías digitales han hecho que sea más fácil combinar diferentes tipos de contenido.
 
+>**La Hibridación**: 
+>"no es tan solo la suma mecánica de componentes previos, sino una nueva «especie»".**(Manovich, 2013)**.
+> 
 Manovich sostiene que la hibridación de los medios tiene un impacto significativo en la forma en que percibimos y consumimos los medios. Combinando distintos tipos de contenido, los artistas y creadores crean experiencias nuevas que no serían posibles con un solo medio.
 
 En este concepto de **Hibridación** nos basaremos para analizar los casos que trataremos en este ensayo, **"Unreal Engine"** y **´"El Gato con Botas: Atrapado en un cuento épico".**
@@ -49,31 +52,47 @@ Unreal Engine es una herramienta en auge y que está creciendo cada dia más com
 ## "El Gato con Botas: Atrapado en un cuento épico"
 ![Cultura Digital](https://github.com/AlejandroJoseLopezTapia/PEC3_Manovich_Reloaded/blob/main/Gatoconbotas.jpg)
 
-Lorem ipsum dolor sit amet consectetur adipiscing elit habitant nostra posuere, dictumst himenaeos sagittis dignissim aliquet fermentum cursus morbi nisl lectus, nam volutpat bibendum dapibus sodales euismod ultrices nibh sollicitudin. Nulla cum at curae sem euismod egestas malesuada eget, aliquet nec vulputate lobortis nascetur himenaeos molestie pharetra, sollicitudin primis sociis urna vehicula accumsan eu. Congue donec nullam nisl sagittis facilisi lectus, montes parturient cum suspendisse volutpat accumsan commodo, vel laoreet etiam aliquet aenean.
+**La película interactiva "El Gato con Botas: Atrapado en un cuento épico" (2017) es un ejemplo de hibridación de medios porque combina dos medios tradicionales: el cine y los videojuegos.**
 
-Vulputate semper praesent augue rhoncus duis aenean condimentum penatibus viverra arcu, non odio sem turpis class tristique habitasse sollicitudin ultricies. Vestibulum rhoncus proin vulputate penatibus natoque molestie blandit congue convallis a purus, duis justo sagittis euismod auctor placerat non fermentum risus cum metus, sollicitudin volutpat eu ultricies viverra integer ullamcorper morbi sociis tincidunt. Suspendisse euismod ante quam tincidunt pharetra erat malesuada lacinia egestas, duis leo taciti inceptos sodales sollicitudin vulputate pellentesque curae, cursus morbi iaculis dignissim ridiculus fames risus praesent.
+La película presenta elementos de **interactividad** que permiten a los espectadores tomar decisiones que afectan el curso de la historia. Esto crea una experiencia  **personalizada** algo que no ocurre evidentemente en una película tradicional.
 
+**La película combina los siguientes elementos de los medios tradicionales:**
 
+* **Cine:**
+    * **Narrativa:** Ppresenta una variedad de giros y vueltas que mantienen al espectador interesado.
+    * **Personajes:** Los personajes de la película son atractivos y memorables.
+    * **Ambiente:** La película se desarrolla en un mundo medieval ficticio.
+    * **Música:** La película tiene una banda sonora original que completa a la película.
 
+* **Videojuegos:**
+    * **Gráficos 3D:** La película utiliza gráficos 3D con estilo de dibujos animados para crear un mundo virtual detallado. Los gráficos de la película son de alta calidad y proporcionan una experiencia visual realista.
+    * **Interactividad:** Los espectadores pueden tomar decisiones que afectan el curso de la historia. La interactividad de la película permite a los espectadores crear su propia historia.
+   
+**La combinación de estos elementos crea una experiencia única que no podría ser creada por un solo medio.**
 
+**A continuación, se presentan algunos ejemplos específicos de hibridación de medios en la película:**
 
+* **Los espectadores pueden tomar decisiones que afectan el curso de la historia. Esto crea una experiencia personalizada, diferente a una película tradicional.**
 
+La película presenta una variedad de opciones que los espectadores pueden elegir durante la película. Estas opciones afectan el resultado de la historia. Por ejemplo, en una escena, el Gato con Botas puede elegir entre dos caminos. El camino que elija el espectador determinará qué tipo de obstáculo tendrá que superar el Gato con Botas.
 
-
-
-¿Qué es la hibridación de medios? (brevemente para introducir el documento)
-
-¿Cómo reconocer una de estas hibridaciones? ¿Cómo distinguir de otras (multimedia/remediación)?
-
-
+**En conclusión**, "El Gato con Botas: Atrapado en un cuento épico" es un ejemplo de hibridación de medios que combina los elementos tradicionales del cine y los videojuegos para crear una experiencia única y envolvente.
 
 ## Valoraciones personales
 
+La hibridación de los medios es una tendencia cada vez más importante en la actualidad. Ejemplos donde la hibridación de los medios puede verse:
 
+* **La combinación de medios tradicionales con nuevos medios digitales.** Por ejemplo, las películas pueden combinar imágenes generadas por computadora con imágenes filmadas en vivo, o los programas de televisión pueden incluir elementos de realidad virtual o realidad aumentada.
 
-wefwefwefwefwfwf
-wefwefwef
-wefwefwefwef
+* **La creación de nuevos medios los cuales suman diferentes elementos de medios tradicionales.** Por ejemplo, los videojuegos incluyen elementos propios de la narración o literatura, cine y de la música.
+
+* **La combinación de medios: Crear experiencias inmersivas.** Por ejemplo, las páginas web pueden incluir elementos para mostrar realidad virtual, o las APPs de móviles pueden permitir a los usuarios crear y/o disfrutar intereacciones de nuevas maneras antes imposibles.
+
+La hibridación de los medios tiene un impacto significativo en la sociedad de varias maneras. Ayuda las personas a aprender y comprender el mundo de nuevas maneras. Por ejemplo, los videojuegos ya se utilizan para enseñar historia, ciencia o cultura.
+
+Ayuda a las personas a conectarse entre sí de nuevas maneras. Por ejemplo, las redes sociales pueden utilizarse para compartir información y demás datos con personas en todo el mundo.
+
+En conclusión, la hibridación es importante ya que tiene el potencial de transformar la forma en que interactuamos con los medios y el mundo que nos rodea. La hibridación de los medios puede ayudar a las personas a expresarse de nuevas formas antes impensables o muy inaccesibles. Los creadores pueden utilizar los nuevos medios para crear obras más interactivas y envolventes que las obras tradicionales. En definitiva el Software resultante es el motor de cambio de nuestro día a día en el entorno digital.
 
 
 

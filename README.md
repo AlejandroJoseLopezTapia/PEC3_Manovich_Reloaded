@@ -99,12 +99,16 @@ En conclusión, la hibridación es importante ya que tiene el potencial de trans
 
 - _Manovich, Lev. “El Software toma el mando”. Barcelona: Editorial UOC, 2013"_
 
+- _Página web de "Unreal Engine"_. Fecha 14 Diciembre 2023. https://www.unrealengine.com
+
+- _Netflix: "El Gato con Botas: Atrapado en un cuento épico"_. Fecha 14 Diciembre 2023. https://www.netflix.com/es/title/80151644
+
 ## Imágenes
 
 - _Imagen de Portada. Creada con Microsoft Bing. “Image Creator from Microsoft Bing”.
 Fecha 10 Diciembre 2023. https://www.bing.com/create_
 
-- _Imagen de Composición Unbreal_. Creada con Photoshop.
+- _Imagen de Composición Unreal_. Creada con Photoshop.
 Fecha 14 Diciembre 2023. Imágenes: https://www.unrealengine.com/es-ES/unreal-engine-5
 
 - _Imagen de Composición Gato con botas_. Creada con Photoshop.
